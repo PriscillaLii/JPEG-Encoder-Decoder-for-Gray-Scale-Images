@@ -1,0 +1,5 @@
+Individual, Course Project 11/2017–12/2017
+
+Implemented basic JPEG Standard to compress and decompress gray-scale images read from file system on Matlab.
+Developed program to change scalars and DPCM parameters to enable different compression radios and signal-to-noise ratios.
+Applied DPCM and Huffman coding, and other agreements like quantization matrix given by instructor.
